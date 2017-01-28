@@ -1,2 +1,2 @@
 # generalAlgorithms
-Coding of different kinds of algorşthms 
+Codes of different kinds of algorithm problems
